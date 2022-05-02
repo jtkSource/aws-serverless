@@ -1,0 +1,7 @@
+**/.idea/**
+**/.aws-sam/**
+**/target/**
+/ordersapi/ordersapi/ordersapi.iml
+/ordersapi/ordersapi/HelloWorld.iml
+/firstlambda/HelloWorldFunction/HelloWorld.iml
+/patientcheckout/patientcheckout/patientcheckout.iml
